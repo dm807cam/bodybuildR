@@ -1,10 +1,6 @@
 # bodybuildR <img src="man/figures/logo.png" align="right" />
  An R package for fitness enthusiasts to monitor body composition and workouts.
 
-`r badge_lifecycle("maturing", "blue")`
-`r badge_last_commit("dm807cam/bodybuildR")`
-`r badge_github_actions("dm807cam/bodybuildR")`
-
 # Install
 As of now bodybuildR is not available through CRAN. 
 I recommend to install bodybuildR directly from this github repository using 'devtools'.
