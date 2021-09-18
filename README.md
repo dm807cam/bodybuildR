@@ -2,8 +2,8 @@
  An R package for fitness enthusiasts to monitor body composition and workouts.
 
 # Install
-As of now bodybuildR is not available through CRAN. 
-I recommend to install bodybuildR directly from this github repository using 'devtools'.
+As of now, bodybuildR is not available through CRAN. 
+I recommend to install bodybuildR directly from this github repository using 'devtools'.</br>
 ```devtools::install_github('dm807cam/bodybuildR')```
 
 To see the full list of available functions:</br>
