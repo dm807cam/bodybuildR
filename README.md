@@ -6,9 +6,9 @@ As of now bodybuildR is not available through CRAN.
 I recommend to install bodybuildR directly from this github repository using 'devtools'.
 ```devtools::install_github('dm807cam/bodybuildR')```
 
-To see the full list of available functions:
-```library('bodybuildR')```
-```ls('package:bodybuildR')```
+To see the full list of available functions:</br>
+```library('bodybuildR')```</br>
+```ls('package:bodybuildR')```</br>
 
 ## TODO
 - add a vignette to introduce all functions
@@ -16,5 +16,5 @@ To see the full list of available functions:
 - include regression type model to predict body composition
 
 
-Bodyuilder photo in logo by <a href="https://unsplash.com/@gorillafreak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gorilla Freak</a> on <a href="https://unsplash.com/s/photos/bodybuilding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Bodybuilder photo used in the logo by <a href="https://unsplash.com/@gorillafreak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gorilla Freak</a> on <a href="https://unsplash.com/s/photos/bodybuilding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
