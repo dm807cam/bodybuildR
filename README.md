@@ -1,9 +1,8 @@
 bodbuildR
 ================
 
-# bodybuildR <img src="man/figures/logo.png" align="right"  height="200" />
-
-An R package for fitness enthusiasts to monitor body composition and
+<img src="man/figures/logo.png" align="right"  height="200" /> An R
+package for fitness enthusiasts to monitor body composition and
 workouts.
 
 [![](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html#maturing)

@@ -7,8 +7,8 @@ output: github_document
 library(badger)
 ```
 
-# bodybuildR <img src="man/figures/logo.png" align="right"  height="200" />
- An R package for fitness enthusiasts to monitor body composition and workouts.
+<img src="man/figures/logo.png" align="right"  height="200" />
+An R package for fitness enthusiasts to monitor body composition and workouts.
 
 `r badge_lifecycle("maturing", "blue")`
 `r badge_last_commit("dm807cam/bodybuildR")`
