@@ -12,8 +12,6 @@ library(badger)
 
 `r badge_lifecycle("maturing", "blue")`
 `r badge_last_commit("dm807cam/bodybuildR")`
-`r badge_codecov("dm807cam/bodybuildR")`
-`r badge_github_actions("dm807cam/bodybuildR")`
 
 # Install
 As of now, bodybuildR is not available through CRAN. 

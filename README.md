@@ -8,9 +8,6 @@ workouts.
 
 [![](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html#maturing)
 [![](https://img.shields.io/github/last-commit/dm807cam/bodybuildR.svg)](https://github.com/dm807cam/bodybuildR/commits/main)
-[![](https://codecov.io/gh/dm807cam/bodybuildR/branch/main/graph/badge.svg)](https://codecov.io/gh/dm807cam/bodybuildR)
-[![R build
-status](https://github.com/dm807cam/bodybuildR/workflows/R-CMD-check/badge.svg)](https://github.com/dm807cam/bodybuildR/actions)
 
 # Install
 
