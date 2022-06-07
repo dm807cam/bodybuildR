@@ -14,7 +14,7 @@ of working sets per training session e.g., 3 sets of 10 reps = 30 total repetiti
 \item{total_load}{Total amount of weight moved e.g., a squats session
 of 3 sets with 10 reps with 120 kg the total_load = 3 x 10 x 120.}
 
-\item{body.weight}{Body weight in kg}
+\item{body_weight}{Body weight in kg}
 }
 \description{
 Calculate the normalized volume index for resistance exercises

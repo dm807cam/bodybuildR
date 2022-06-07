@@ -7,9 +7,9 @@
 lean_body_mass(body_weight, body_fat)
 }
 \arguments{
-\item{body_fat}{Body fat in percent}
+\item{body_weight}{Body weight in kg}
 
-\item{body.weight}{Body weight in kg}
+\item{body_fat}{Body fat in percent}
 }
 \description{
 Lean body mass

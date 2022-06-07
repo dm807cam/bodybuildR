@@ -4,7 +4,7 @@
 \alias{onerm_oconner}
 \title{1RM after O'Conner}
 \usage{
-onerm_oconner(load, repitions)
+onerm_oconner(load, repetitions)
 }
 \arguments{
 \item{load}{Weight used during the exercise in kg.}

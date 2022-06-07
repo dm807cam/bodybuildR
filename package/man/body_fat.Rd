@@ -12,13 +12,13 @@ body_fat(
 )
 }
 \arguments{
+\item{body_height}{Body height in centimeters}
+
+\item{abdominal_circumference}{Abdominal circumference in centimeters.}
+
+\item{neck_circumference}{Neck circumference in centimeters.}
+
 \item{sex}{Select sex of athlete (male or female).}
-
-\item{body.height}{Body height in centimeters}
-
-\item{abdominal.circumference}{Abdominal circumference in centimeters.}
-
-\item{aneck.circumference}{Neck circumference in centimeters.}
 }
 \value{
 Returns a vector containing estimated bodyfat and 95 \% confidence intervals.

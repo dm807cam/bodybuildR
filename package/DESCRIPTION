@@ -1,14 +1,14 @@
 Package: bodybuildR
-Title: A compilation of useful functions for fitness enthusiasts.
-Version: 0.0.0.1
+Title: A Collection of Useful Functions for Fitness Enthusiasts
+Version: 0.0.1
 Authors@R: 
     person(given = "Dennis",
            family = "Mayk",
            role = c("aut", "cre"),
            email = "dennis@mayk.eu",
            comment = c(ORCID = "0000-0002-5017-1495"))
-Description: bodybuildR provides useful functions to help fitness enthusiasts monitor their progress.
-License: use_gpl3_license()
+Description: This package provides useful functions to help fitness enthusiasts monitor their progress in the gym.
+License: GPL (>= 3) + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
