@@ -1,7 +1,7 @@
 bodbuildR
 ================
 
-<img src="man/figures/logo.png" align="right"  height="200" /> An R
+<img src="package_logo/logo.png" align="right"  height="200" /> An R
 package for fitness enthusiasts to monitor body composition and
 workouts.
 
